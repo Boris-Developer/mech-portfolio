@@ -212,7 +212,7 @@ const about = {
     },
     {
       fieldName: "Experiencia",
-      fieldValue: "10+ Years",
+      fieldValue: "10+ Años",
     },
     {
       fieldName: "Skype",
@@ -224,7 +224,7 @@ const about = {
     },
     {
       fieldName: "Correo",
-      fieldValue: "ing.borislf@gamil.com",
+      fieldValue: "ing.borislf@gmail.com",
     },
     {
       fieldName: "Independiente",
